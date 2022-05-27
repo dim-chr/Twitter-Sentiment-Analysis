@@ -6,7 +6,7 @@ It is no longer difficult to understand what people think about a topic by analy
 The aim of this project is to analyse what Twitter users think about the vaccination against COVID-19.</br>
 
 
-The project is splited into five parts and it was implemented by using <b>Python's</b> `NLTK` and `Sklearn` Library. </br>
+The project is split into five parts and it was implemented by using <b>Python's</b> `NLTK` and `Sklearn` Library. </br>
 
 ``` 
 1. Data pre-processing and cleanup.
